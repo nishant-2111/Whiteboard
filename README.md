@@ -34,7 +34,7 @@
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/nishant-2111/whiteboard-app.git
+git clone https://github.com/nishant-2111/Whiteboard.git
 cd whiteboard-app
 npm install
 npm start
